@@ -13,7 +13,6 @@
   - [Key Findings](#key-findings)
   - [Recommendations](#recommendations)
 - [Repository Contents](#repository-contents)
-- [How to Use](#how-to-use)
 
 ## Executive Summary
 
@@ -61,15 +60,19 @@ This section presents a visual overview of key analytical components—from clea
 
 ### Analyzing & Modelling Preview 
 
-
+![Analyzing   Modelling Preview](https://github.com/user-attachments/assets/23f7bc2d-6cf2-44ab-a710-8987da29a630)
 
 ### Cost-Benefit Analysis Preview  
 
+![Cost-Benefit Analysis Preview](https://github.com/user-attachments/assets/5161918f-b304-4bf0-935f-2bc4320dd389)
 
 ### Variance Analysis Preview
 
+![Variance Analysis Preview](https://github.com/user-attachments/assets/d3e59b4e-3383-4af8-b512-c0be4ae2ecb7)
 
 ### Fund Efficiency Anslysis Preview 
+
+![Fund Efficiency Anslysis Preview](https://github.com/user-attachments/assets/92b4d805-4506-40c5-8b2b-42fbd41976b6)
 
 ---
 
