@@ -2,21 +2,26 @@
 
 ## Table of Contents
 
-- [Executive Summary](#executive-summary)
-- [Project Objective](#project-objective)
-- [Methodology Overview](#methodology-overview)
-- [Tools and Technologies](#tools-and-technologies)
-- [Project Overview](#project-overview)
-  - [Working Structured Table Preview](#working-structured-table-preview)
-  - [Visual Report Preview](#visual-report-preview)
-- [Reporting and Communication](#reporting-and-communication)
-  - [Key Findings](#key-findings)
-  - [Recommendations](#recommendations)
+- [Executive Summary](#executive-summary)  
+- [Project Objective](#project-objective)  
+- [Methodology Overview](#methodology-overview)  
+- [Tools and Technologies](#tools-and-technologies)  
+- [Project Overview](#project-overview)  
+  - [Analyzing & Modelling Preview](#analyzing--modelling-preview)  
+  - [Cost-Benefit Analysis Preview](#cost-benefit-analysis-preview)  
+  - [Variance Analysis Preview](#variance-analysis-preview)  
+  - [Fund Efficiency Analysis Preview](#fund-efficiency-analysis-preview)  
+- [Reporting and Communication](#reporting-and-communication)  
+  - [Key Findings](#key-findings)  
+  - [Recommendations](#recommendations)  
+  - [Next Actions](#next-actions)  
 - [Repository Contents](#repository-contents)
 
 ## Executive Summary
 
 This project presents a comprehensive data analysis conducted for a non-governmental organization (NGO) with the objective of improving cost efficiency and optimizing the allocation of donor funds. The study focuses on identifying inefficiencies in program spending, evaluating the alignment between costs and outcomes, and improving the transparency and effectiveness of fund utilization.
+
+---
 
 ## Project Objective  
 The primary goal of this project is to support data-driven decision-making in NGO operations by:  
@@ -38,7 +43,7 @@ The project employed a structured, insight-driven approach to analyze financial 
 - **Analysis & Modeling:** Explored patterns in spending and program performance to identify inefficiencies, budget discrepancies, and gaps in fund allocation.
 - **Data Visualization:**   Designed a focused set of visuals to communicate financial insights clearly:
   - **Cost-Benefit Analysis (Bubble Chart):**  
-    Plots Program_ID, Number of Beneficiaries, and Cost per Beneficiary
+    Displays Program_ID, Number of Beneficiaries, and Cost per Beneficiary
   - **Variance Analysis (Clustered Column Chart):**  
     Illustrates overspent and underspent programs by Program_ID
   - **Fund Efficiency Analysis (Bubble Chart):**  
@@ -70,7 +75,7 @@ This section presents a visual overview of key analytical components—from clea
 
 ![Variance Analysis Preview](https://github.com/user-attachments/assets/d3e59b4e-3383-4af8-b512-c0be4ae2ecb7)
 
-### Fund Efficiency Anslysis Preview 
+### Fund Efficiency Analysis Preview 
 
 ![Fund Efficiency Anslysis Preview](https://github.com/user-attachments/assets/92b4d805-4506-40c5-8b2b-42fbd41976b6)
 
